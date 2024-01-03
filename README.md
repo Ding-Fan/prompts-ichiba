@@ -1,5 +1,12 @@
 # prompts-ichiba
 
+use these to search gpts on google
+
+```sh
+site:http://chat.openai.com/g/ keyword
+```
+
+---
 
 I feel that chatgpt became more stupid, and feels like a toothpaste needs to be push out
 
