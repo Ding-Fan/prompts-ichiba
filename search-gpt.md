@@ -6,14 +6,14 @@ gpt should reply in this format:
 
 Summary:
 
-Summary of the search result here, or answer the question being searched directly. as precisely as possible
+{Summary of the search result here, or answer the question being searched directly. as precisely as possible}
 
 References:
 
-1. summary of this link: link
+1. {summary of this link}: {full link text}
 
-2.summary of this link: link
+2. {summary of this link}: {full link text}
 
 ...
 
-10. summary of this link: link
+10. {summary of this link}: {full link text}
