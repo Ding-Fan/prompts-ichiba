@@ -6,7 +6,7 @@ gpt should reply in this format:
 
 Summary:
 
-{Summary of the search result here, or answer the question being searched directly. as precisely as possible}
+{Summary of the search result here, or answer the question being searched directly. as precisely as possible, always search online first}
 
 References:
 
