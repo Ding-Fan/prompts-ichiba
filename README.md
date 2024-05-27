@@ -16,4 +16,4 @@ I'm considering that, there could be a place that people gather here to discuss 
 
 ## Prompts Modules
 
-[chatgpt.common.md](chatgpt.common.md)
+www.dingfan.date
